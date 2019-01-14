@@ -487,7 +487,7 @@ body {
 .text-black {
   /*alterado*/
   color: RGB(113,112,117) !important;
-  font-size: 0px;
+  font-size: 15px;
 
 }
 a.text-primary:hover,
