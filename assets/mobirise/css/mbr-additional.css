@@ -487,7 +487,7 @@ body {
 .text-black {
   /*alterado*/
   color: RGB(113,112,117) !important;
-  font-size: 20px;
+  font-size: 0px;
 
 }
 a.text-primary:hover,
@@ -2039,7 +2039,7 @@ body {
   color: #232323;
 }
 .cid-rbdJiM63oy {
-  padding-top: 90px;
+  /*padding-top: 90px;*/
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -2092,7 +2092,7 @@ body {
   -webkit-align-items: center;
 }
 .cid-rbdJiM63oy .card-wrapper .card-img img {
-  width: 100%;
+  width: 73%;
 }
 .cid-rbdJiM63oy .card-wrapper .card-box {
   background-color: #ffffff;
